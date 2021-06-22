@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+hello This is my first file edit on gITHUB PAGES. 
 Use the left arrow to go back!
